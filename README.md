@@ -65,5 +65,7 @@ This project is a deep learning-based system for classifying skin cancer from de
 
 ## Contributions
 -Sathya S
+
 -Padmasree K K
+
 -Amirtha Varshini S R
